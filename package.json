@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "git": "^0.1.5",
+    "live-server": "^1.2.2",
+    "node-modules": "^1.0.1",
+    "typescript": "^5.8.2"
+  },
+  "name": "ex_2type",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
